@@ -1,0 +1,294 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.31f1 (a206c360e2a8) revision 10618563'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'tr' Physical Memory: 32512 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/ramaz/Documents/Unity/Operasyon
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+59345
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/ramaz/Documents/Unity/Operasyon
+C:/Users/ramaz/Documents/Unity/Operasyon
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [9840]  Target information:
+
+Player connection [9840]  * "[IP] 192.168.111.1 [Port] 0 [Flags] 2 [Guid] 597886231 [EditorId] 597886231 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9D5NC7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9840]  * "[IP] 192.168.75.1 [Port] 0 [Flags] 2 [Guid] 597886231 [EditorId] 597886231 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9D5NC7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9840]  * "[IP] 192.168.1.27 [Port] 0 [Flags] 2 [Guid] 597886231 [EditorId] 597886231 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9D5NC7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9840] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9840] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.31f1 (a206c360e2a8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ramaz/Documents/Unity/Operasyon/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56236
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006309 seconds.
+- Loaded All Assemblies, in  0.547 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.478 seconds
+Domain Reload Profiling: 1021ms
+	BeginReloadAssembly (193ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (72ms)
+	LoadAllAssembliesAndSetupDomain (209ms)
+		LoadAssemblies (188ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (205ms)
+			TypeCache.Refresh (203ms)
+				TypeCache.ScanAssembly (186ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (479ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (411ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (36ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (77ms)
+			ProcessInitializeOnLoadAttributes (208ms)
+			ProcessInitializeOnLoadMethodAttributes (82ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.382 seconds
+Refreshing native plugins compatible for Editor in 1.60 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.183 seconds
+Domain Reload Profiling: 2553ms
+	BeginReloadAssembly (345ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (72ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (78ms)
+	LoadAllAssembliesAndSetupDomain (850ms)
+		LoadAssemblies (689ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (384ms)
+			TypeCache.Refresh (265ms)
+				TypeCache.ScanAssembly (243ms)
+			BuildScriptInfoCaches (100ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1184ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (946ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (130ms)
+			ProcessInitializeOnLoadAttributes (650ms)
+			ProcessInitializeOnLoadMethodAttributes (136ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 231 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5998 unused Assets / (5.7 MB). Loaded Objects now: 6717.
+Memory consumption went from 182.8 MB to 177.1 MB.
+Total: 19.120400 ms (FindLiveObjects: 0.930300 ms CreateObjectMapping: 0.643900 ms MarkObjects: 14.068700 ms  DeleteObjects: 3.475700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 64089.239547 seconds.
+  path: Assets/Sample/HQ Hangar Free/Prefabs/Floor.prefab
+  artifactKey: Guid(87fbfc3224b1b454cb612fc112128a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/HQ Hangar Free/Prefabs/Floor.prefab using Guid(87fbfc3224b1b454cb612fc112128a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b1bb247750674d8bc5190311a3cb020f') in 0.6666648 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 348.109116 seconds.
+  path: Assets/Sample/RPG_FPS_game_assets_industrial/Other_props/Palets/Bags_on_pallet_v1/Source/Bags_on_pallet_v1.mat
+  artifactKey: Guid(9b20318cce963404c8c089075ad8cb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/RPG_FPS_game_assets_industrial/Other_props/Palets/Bags_on_pallet_v1/Source/Bags_on_pallet_v1.mat using Guid(9b20318cce963404c8c089075ad8cb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f7dcffc5621c146803bcc364f52f431') in 0.0538924 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sample/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.mat
+  artifactKey: Guid(cd2f24c07b1bce24fa0066430da2910b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/RPG_FPS_game_assets_industrial/Barrels/Barrel_v2/Source/Barrel_v2.mat using Guid(cd2f24c07b1bce24fa0066430da2910b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d33c92d4f7c3bbc6f393bfdf28de7d9') in 0.0261598 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.746892 seconds.
+  path: Assets/Sample/Flooded_Grounds/Content/Materials/BLD_Doors1.mat
+  artifactKey: Guid(7a8d6bb394f243445b9377162ba792a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/Flooded_Grounds/Content/Materials/BLD_Doors1.mat using Guid(7a8d6bb394f243445b9377162ba792a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b4d86b26ac768f2b07968e1748af220') in 0.1506646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.276951 seconds.
+  path: Assets/Sample/Flooded_Grounds/Content/Materials/BLD_Rubble1.mat
+  artifactKey: Guid(aa892dd8e16aef04697a0b7649944fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/Flooded_Grounds/Content/Materials/BLD_Rubble1.mat using Guid(aa892dd8e16aef04697a0b7649944fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12ff3aa825b4a485add44d6e62c2cbdb') in 0.1083591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.757213 seconds.
+  path: Assets/Sample/Flooded_Grounds/Content/Materials/BLD_Structures1_LOD.mat
+  artifactKey: Guid(4868299c5b3ac2848925175126b6d2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/Flooded_Grounds/Content/Materials/BLD_Structures1_LOD.mat using Guid(4868299c5b3ac2848925175126b6d2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33f722f41eed61121b608e3bb2dd2937') in 0.028107 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.389797 seconds.
+  path: Assets/Sample/Flooded_Grounds/Content/Materials/BLD_Structures2_LOD.mat
+  artifactKey: Guid(0a5e5d99899513c4eb2d420489f08ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/Flooded_Grounds/Content/Materials/BLD_Structures2_LOD.mat using Guid(0a5e5d99899513c4eb2d420489f08ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f87da09a26cbbb2d62876dcbf29df50e') in 0.051252 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Sample/Flooded_Grounds/Content/Materials/BLD_WindowGlass1.mat
+  artifactKey: Guid(2b1f4e3c22d03d742a6e1e2e95a7e606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/Flooded_Grounds/Content/Materials/BLD_WindowGlass1.mat using Guid(2b1f4e3c22d03d742a6e1e2e95a7e606) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81a3bc3646be894f0d692f5cc26c9f15') in 0.1533342 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.653853 seconds.
+  path: Assets/Sample/Flooded_Grounds/Content/Trees/SrcMaterials/Branch1.mat
+  artifactKey: Guid(e2b1787858919764498bf5efb8d00efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/Flooded_Grounds/Content/Trees/SrcMaterials/Branch1.mat using Guid(e2b1787858919764498bf5efb8d00efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b7cd8142fa4a6d530176b00a0999885') in 0.0516846 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.288481 seconds.
+  path: Assets/Sample/Flooded_Grounds/Content/Trees/SrcMaterials/BushFlower.mat
+  artifactKey: Guid(0342f626db4640949b5957c4231e5a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/Flooded_Grounds/Content/Trees/SrcMaterials/BushFlower.mat using Guid(0342f626db4640949b5957c4231e5a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42e75d42fb2318cca7e3dedcde00bf78') in 0.0638724 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sample/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v3.mat
+  artifactKey: Guid(bb0d1d0eb18293f4a8d2ded5e4ee4e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/RPG_FPS_game_assets_industrial/Containers/Cargo_container_v1/Source/Cargo_container_v3.mat using Guid(bb0d1d0eb18293f4a8d2ded5e4ee4e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd7b7252903facc869997ac218bfb4c7f') in 0.0325912 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.743943 seconds.
+  path: Assets/Sample/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1.mat
+  artifactKey: Guid(acd39752d1464d2409980e4ae106b986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v1/Source/Concrete_fence_v1.mat using Guid(acd39752d1464d2409980e4ae106b986) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '59722697259449d3ba923d69b243207a') in 0.0445839 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042985 seconds.
+  path: Assets/Sample/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v2/Source/Concrete_fence_v2.mat
+  artifactKey: Guid(9d41c32f719dc4b47bd0cbe39860bdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sample/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v2/Source/Concrete_fence_v2.mat using Guid(9d41c32f719dc4b47bd0cbe39860bdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '34280d03c82bdc67f972bc13effd27ee') in 0.0441246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
