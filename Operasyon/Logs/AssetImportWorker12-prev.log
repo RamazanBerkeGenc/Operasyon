@@ -1,0 +1,282 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.31f1 (a206c360e2a8) revision 10618563'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'tr' Physical Memory: 32512 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker12
+-projectPath
+C:/Users/ramaz/Documents/Unity/Operasyon
+-logFile
+Logs/AssetImportWorker12.log
+-srvPort
+55078
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/ramaz/Documents/Unity/Operasyon
+C:/Users/ramaz/Documents/Unity/Operasyon
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [11416]  Target information:
+
+Player connection [11416]  * "[IP] 192.168.111.1 [Port] 0 [Flags] 2 [Guid] 3516357137 [EditorId] 3516357137 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9D5NC7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11416]  * "[IP] 192.168.75.1 [Port] 0 [Flags] 2 [Guid] 3516357137 [EditorId] 3516357137 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9D5NC7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11416]  * "[IP] 192.168.1.27 [Port] 0 [Flags] 2 [Guid] 3516357137 [EditorId] 3516357137 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9D5NC7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11416] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [11416] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 3.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.31f1 (a206c360e2a8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ramaz/Documents/Unity/Operasyon/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56564
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007016 seconds.
+- Loaded All Assemblies, in  0.599 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.470 seconds
+Domain Reload Profiling: 1065ms
+	BeginReloadAssembly (221ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (77ms)
+	LoadAllAssembliesAndSetupDomain (224ms)
+		LoadAssemblies (214ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (220ms)
+			TypeCache.Refresh (218ms)
+				TypeCache.ScanAssembly (201ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (470ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (407ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (216ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.321 seconds
+Refreshing native plugins compatible for Editor in 2.02 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.325 seconds
+Domain Reload Profiling: 2637ms
+	BeginReloadAssembly (313ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (71ms)
+	LoadAllAssembliesAndSetupDomain (850ms)
+		LoadAssemblies (640ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (404ms)
+			TypeCache.Refresh (262ms)
+				TypeCache.ScanAssembly (234ms)
+			BuildScriptInfoCaches (119ms)
+			ResolveRequiredComponents (20ms)
+	FinalizeReload (1326ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1053ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (182ms)
+			ProcessInitializeOnLoadAttributes (716ms)
+			ProcessInitializeOnLoadMethodAttributes (128ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 2.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 231 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5998 unused Assets / (5.5 MB). Loaded Objects now: 6717.
+Memory consumption went from 180.9 MB to 175.4 MB.
+Total: 15.013200 ms (FindLiveObjects: 1.322300 ms CreateObjectMapping: 1.624600 ms MarkObjects: 7.819000 ms  DeleteObjects: 4.245100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 171702.442862 seconds.
+  path: Assets/Mine/Models/Base/RampUp.fbx
+  artifactKey: Guid(426f785430a598746a26494eeef35d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Base/RampUp.fbx using Guid(426f785430a598746a26494eeef35d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11a55b34f243490247594969c85fe455') in 0.9976905 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104786 seconds.
+  path: Assets/Mine/Models/Base/Materials/Stone_AlbedoSmoothness.png
+  artifactKey: Guid(1560545bdc4db1847a4e695ff7e956cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Base/Materials/Stone_AlbedoSmoothness.png using Guid(1560545bdc4db1847a4e695ff7e956cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '608b54e7fbfcd5314d62b876be85a6f7') in 0.0692368 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.684986 seconds.
+  path: Assets/Mine/Models/Props/Hatch.fbx
+  artifactKey: Guid(f408621a10029904cbac780d67e508e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Hatch.fbx using Guid(f408621a10029904cbac780d67e508e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '09cd302f9c8245d0847cf8e2be1ae868') in 0.0406767 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Mine/Models/Props/Support1.fbx
+  artifactKey: Guid(5467a775bdd27064bae6ecb29c115263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Support1.fbx using Guid(5467a775bdd27064bae6ecb29c115263) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13985d2471d70ccfc1235fcdaba81223') in 0.0443256 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.490345 seconds.
+  path: Assets/Mine/Models/Props/Materials/Crate_Albedo.png
+  artifactKey: Guid(9e668f9a82c8a2f4f8661b446eb52436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Materials/Crate_Albedo.png using Guid(9e668f9a82c8a2f4f8661b446eb52436) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08c613786541a47cd18872ea3ae9b8b5') in 0.020345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Mine/Models/Props/Materials/Pickaxe_AlbedoTransparency.png
+  artifactKey: Guid(7a538c8d5a7f4a541b174a0f47232036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Materials/Pickaxe_AlbedoTransparency.png using Guid(7a538c8d5a7f4a541b174a0f47232036) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b6225a1e56d0e97a748a853ea8b5981') in 0.0198722 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Mine/Models/Props/Materials/Pickaxe_Normal.png
+  artifactKey: Guid(763045be83aed584b83eae3d36c4bd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Materials/Pickaxe_Normal.png using Guid(763045be83aed584b83eae3d36c4bd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '357628f20f1fa3fe705c4544fc88a0e0') in 0.0242746 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Mine/Models/Props/Materials/Lantern_AlbedoTransparency.png
+  artifactKey: Guid(f2b8b87b82de71446aee8bfe22b05b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Materials/Lantern_AlbedoTransparency.png using Guid(f2b8b87b82de71446aee8bfe22b05b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f38f1edbb7b564f81acb39af28856a1c') in 0.0215196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.449896 seconds.
+  path: Assets/Mine/Models/Rocks/Rock1.fbx
+  artifactKey: Guid(73a471e9087c8114db750e1b4b4c91a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Rocks/Rock1.fbx using Guid(73a471e9087c8114db750e1b4b4c91a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '340fcd537a38c18ba718038c173885ff') in 0.0623024 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.434447 seconds.
+  path: Assets/Mine/Models/Rocks/Materials/OreGreen.mat
+  artifactKey: Guid(d43ae590d6f04de48817c416343eaba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Rocks/Materials/OreGreen.mat using Guid(d43ae590d6f04de48817c416343eaba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c0499d584b4d59783964e7abcef90a9d') in 0.0360901 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Mine/Models/Rocks/Materials/Rock1_AlbedoSmoothness.png
+  artifactKey: Guid(5a0546d26be2b874abce986f2154cb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Rocks/Materials/Rock1_AlbedoSmoothness.png using Guid(5a0546d26be2b874abce986f2154cb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1db615ca2404127565f8780d50181af4') in 0.0234747 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

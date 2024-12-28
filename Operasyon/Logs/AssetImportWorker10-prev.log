@@ -1,0 +1,274 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.31f1 (a206c360e2a8) revision 10618563'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'tr' Physical Memory: 32512 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker10
+-projectPath
+C:/Users/ramaz/Documents/Unity/Operasyon
+-logFile
+Logs/AssetImportWorker10.log
+-srvPort
+55078
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/ramaz/Documents/Unity/Operasyon
+C:/Users/ramaz/Documents/Unity/Operasyon
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [23388]  Target information:
+
+Player connection [23388]  * "[IP] 192.168.111.1 [Port] 0 [Flags] 2 [Guid] 2938266221 [EditorId] 2938266221 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9D5NC7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23388]  * "[IP] 192.168.75.1 [Port] 0 [Flags] 2 [Guid] 2938266221 [EditorId] 2938266221 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9D5NC7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23388]  * "[IP] 192.168.1.27 [Port] 0 [Flags] 2 [Guid] 2938266221 [EditorId] 2938266221 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9D5NC7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23388] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [23388] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.31f1 (a206c360e2a8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ramaz/Documents/Unity/Operasyon/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005715 seconds.
+- Loaded All Assemblies, in  0.513 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.424 seconds
+Domain Reload Profiling: 933ms
+	BeginReloadAssembly (176ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (198ms)
+		LoadAssemblies (172ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (194ms)
+			TypeCache.Refresh (192ms)
+				TypeCache.ScanAssembly (175ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (425ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (362ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (31ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (192ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.126 seconds
+Refreshing native plugins compatible for Editor in 1.82 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.183 seconds
+Domain Reload Profiling: 2301ms
+	BeginReloadAssembly (220ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (784ms)
+		LoadAssemblies (470ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (453ms)
+			TypeCache.Refresh (306ms)
+				TypeCache.ScanAssembly (280ms)
+			BuildScriptInfoCaches (119ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1184ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (894ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (158ms)
+			ProcessInitializeOnLoadAttributes (603ms)
+			ProcessInitializeOnLoadMethodAttributes (111ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 231 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5998 unused Assets / (5.6 MB). Loaded Objects now: 6717.
+Memory consumption went from 179.0 MB to 173.3 MB.
+Total: 16.918100 ms (FindLiveObjects: 1.470200 ms CreateObjectMapping: 0.915000 ms MarkObjects: 9.248500 ms  DeleteObjects: 5.273800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 171702.443575 seconds.
+  path: Assets/Mine/Models/Base/Tunnel2.fbx
+  artifactKey: Guid(7731b28027d61e2458f3abc39c18e090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Base/Tunnel2.fbx using Guid(7731b28027d61e2458f3abc39c18e090) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '457868ab08ab8e97e3d5447f7c7ab8bf') in 0.9391092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.156095 seconds.
+  path: Assets/Mine/Models/Base/Materials/Stone_Height.png
+  artifactKey: Guid(5896d83e95f2da040bc32a4c2c392195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Base/Materials/Stone_Height.png using Guid(5896d83e95f2da040bc32a4c2c392195) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '20c210e845543c965811c2879607a8e0') in 0.0503807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.702388 seconds.
+  path: Assets/Mine/Models/Props/Lantern.fbx
+  artifactKey: Guid(ab95aa29a4f019b4b8c71652bd378966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Lantern.fbx using Guid(ab95aa29a4f019b4b8c71652bd378966) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '91d4206ade4d9509cefd9592980609b8') in 0.0366637 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Mine/Models/Props/Planks.fbx
+  artifactKey: Guid(97f1da26e5e3e5842980f5f7f08f15e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Planks.fbx using Guid(97f1da26e5e3e5842980f5f7f08f15e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6bc55eccfb2104dab237ad2e827056a8') in 0.0370675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.526171 seconds.
+  path: Assets/Mine/Models/Props/Materials/Crate_Normal.png
+  artifactKey: Guid(436ae5b1cf16d424e94468b3800b9551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Materials/Crate_Normal.png using Guid(436ae5b1cf16d424e94468b3800b9551) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43ce3373cca4baaa71d7958818c29d17') in 0.02809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Mine/Models/Props/Materials/Lantern_MetallicSmoothness.png
+  artifactKey: Guid(88e5fb4769525a34489e1e930260293b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Materials/Lantern_MetallicSmoothness.png using Guid(88e5fb4769525a34489e1e930260293b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fa231c3e1de10e2584c02438ec3a977') in 0.0179461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Mine/Models/Props/Materials/Wood_Normal.png
+  artifactKey: Guid(dc9312e5e0354584eb0dae6dc4070bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Materials/Wood_Normal.png using Guid(dc9312e5e0354584eb0dae6dc4070bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9436036d3a669217540c29964f3b76a') in 0.0209171 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Mine/Models/Props/Materials/Hatch_MetallicSmoothness.png
+  artifactKey: Guid(0329d1112e44daf46be2986ab88d476d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Materials/Hatch_MetallicSmoothness.png using Guid(0329d1112e44daf46be2986ab88d476d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7bf18dca74bd943410ca6a9c9493bfdc') in 0.0222862 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Mine/Models/Props/Materials/Hatch_Normal.png
+  artifactKey: Guid(3b99dd3fa1a67cd42833c4c5db1d08a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Props/Materials/Hatch_Normal.png using Guid(3b99dd3fa1a67cd42833c4c5db1d08a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '47bc29a1c2b260386a4d75045d3a74d7') in 0.0183688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.939575 seconds.
+  path: Assets/Mine/Models/Rocks/Materials/OreStone.mat
+  artifactKey: Guid(fa266e1f0591eca48a6c65d34c194cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mine/Models/Rocks/Materials/OreStone.mat using Guid(fa266e1f0591eca48a6c65d34c194cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '14d4bc983d6200ef74187c18d5017e44') in 0.1022072 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
