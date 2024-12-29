@@ -71,3 +71,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Operasyon/Library/APIUpdater/ConfigurationCache/UnityEngine.InputModule.dll.56C07188971D88284D809A0A379B36EBF667B2E25DEF40F32A07641DB72CD7FD.apiupaterconfigs
+Operasyon/Library/ArtifactDB
+Operasyon/Library/ilpp.pid
+Operasyon/Library/LastSceneManagerSetup.txt
+Operasyon/Library/PreviousActionData.bin
+Operasyon/Library/PreviousActionStack.bin
+Operasyon/Library/SceneVisibilityState.asset
+Operasyon/Library/ShaderCache.db
+Operasyon/Library/SourceAssetDB
+Operasyon/Library/UndoData.bin
+Operasyon/Library/UndoStack.bin
+Operasyon/Library/PreviousActionData.bin
+*.pid
